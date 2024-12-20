@@ -1,3 +1,4 @@
+#Simple slot Machine
 import random
 
 symbols = ["@", "#", "!", "^", "~"]
